@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Tony Le</h1>
+<h3 align="center">HADNY, who Give User Handy!</h3>
 
-<!--
-**klcode1001/klcode1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- programming language : **TypeScript, JavasScript, Node.js, Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Framework & Library : **React.js, Next.js, Express, Django**
+
+- Working position : **FrontEnd Developer**
+
+- Email : **ledev0726@gmail.com**
+
+<div style="display=flex;justify-content=center">
+  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api?username=klcode1001&show_icons=true&locale=en" alt="klcode1001" />
+  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klcode1001&layout=compact" alt="klcode1001" />
+</div>
