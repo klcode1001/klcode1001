@@ -2,11 +2,11 @@
 <h3 align="center">HADNY, who Give User Handy!</h3>
 
 
-- programming language : **TypeScript, JavasScript, Node.js, Python**
+- programming language : **Ruby, Python, TypeScript, JavasScript, Node.js**
 
-- Framework & Library : **React.js, Next.js, Express, Django**
+- Framework & Library : **Ruby on Rails, Django, React.js, Next.js, Express**
 
-- Working position : **FrontEnd Developer**
+- Working position : **Fullstack Developer**
 
 - Email : **ledev0726@gmail.com**
 
