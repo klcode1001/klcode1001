@@ -8,7 +8,7 @@
 
 - Working position : **Fullstack Developer**
 
-- Email : **ledev0726@gmail.com**
+- Email : **exchangetechnology112@gmail.com**
 
 <div style="display: block;justify-content: center; gap: 20px">
   <div style="display: block;justify-content: center; gap: 20px">
