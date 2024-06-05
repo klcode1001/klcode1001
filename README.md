@@ -8,8 +8,6 @@
 
 - Working position : **Fullstack Developer**
 
-- Email : **exchangetechnology112@gmail.com**
-
 <div style="display: block;justify-content: center; gap: 20px">
   <div style="display: block;justify-content: center; gap: 20px">
   <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api?username=klcode1001&show_icons=true&locale=en" alt="klcode1001" />
